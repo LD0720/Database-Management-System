@@ -170,7 +170,7 @@ implement the Iterator interface.
 your code will crash with invalid input.
 32) You are not supporting SQL Joins in this mini-project.
 
-Directory Structure
+### Directory Structure
 33) In a resources directory inside your project source, include a configuration file
 DBApp.config which holds a parameters as key=value pairs
 MaximumRowsCountinTablePage = 200
